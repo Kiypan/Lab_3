@@ -1,0 +1,2 @@
+C:\Users\Kiypan\source\repos\Lan_3.1\x64\Debug\Lan_3.1.exe
+C:\Users\Kiypan\source\repos\Lan_3.1\x64\Debug\Lan_3.1.pdb

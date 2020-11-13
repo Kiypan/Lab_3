@@ -1,0 +1,15 @@
+﻿"Lab_3.4.exe" (Win32). Загружено "C:\Users\Kiypan\source\repos\Lab_3.4\x64\Debug\Lab_3.4.exe". Символы загружены.
+"Lab_3.4.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"Lab_3.4.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"Lab_3.4.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"Lab_3.4.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"Lab_3.4.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"Lab_3.4.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"Lab_3.4.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 0x3718 завершился с кодом 0 (0x0).
+"Lab_3.4.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"Lab_3.4.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+"Lab_3.4.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+Поток 0x35dc завершился с кодом 0 (0x0).
+Поток 0x10e8 завершился с кодом 0 (0x0).
+Программа "[8936] Lab_3.4.exe" завершилась с кодом 0 (0x0).

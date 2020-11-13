@@ -1,0 +1,15 @@
+﻿"Lan_3.1.exe" (Win32). Загружено "C:\Users\Kiypan\source\repos\Lan_3.1\x64\Debug\Lan_3.1.exe". Символы загружены.
+"Lan_3.1.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"Lan_3.1.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"Lan_3.1.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"Lan_3.1.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"Lan_3.1.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"Lan_3.1.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"Lan_3.1.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 0x39cc завершился с кодом 0 (0x0).
+"Lan_3.1.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"Lan_3.1.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+"Lan_3.1.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+Поток 0x2b14 завершился с кодом 0 (0x0).
+Поток 0x3510 завершился с кодом 0 (0x0).
+Программа "[14684] Lan_3.1.exe" завершилась с кодом 0 (0x0).
